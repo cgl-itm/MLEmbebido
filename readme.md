@@ -2,6 +2,7 @@
 [Han Lab - MIT](https://hanlab.mit.edu/)
 
 # Cursos similares
+[Cursos en linea](https://tinyml.seas.harvard.edu/courses/) <br>
 [Tiny Machine Learning - U Penn](https://tinyml.seas.upenn.edu/) <br>
 [Tiny Machine Learning - Harvard](https://sites.google.com/g.harvard.edu/tinyml/home)
 
