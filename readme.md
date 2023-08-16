@@ -14,4 +14,5 @@
 # Arduino nano 33 BLE Sense rev2
 [Datasheet](https://docs.arduino.cc/static/d47764b2748f545a4e96fd14f064a901/ABX00069-datasheet.pdf) <br>
 [Official documentation](https://docs.arduino.cc/hardware/nano-33-ble-sense-rev2) <br>
-[Accelerometer example](https://docs.arduino.cc/tutorials/nano-33-ble-sense-rev2/imu-accelerometer)
+[Accelerometer example](https://docs.arduino.cc/tutorials/nano-33-ble-sense-rev2/imu-accelerometer) <br>
+[Reading Temperature and Humidity](https://docs.arduino.cc/tutorials/nano-33-ble-sense-rev2/humidity-and-temperature-sensor)
