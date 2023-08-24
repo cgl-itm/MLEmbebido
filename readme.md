@@ -16,3 +16,7 @@
 [Official documentation](https://docs.arduino.cc/hardware/nano-33-ble-sense-rev2) <br>
 [Accelerometer example](https://docs.arduino.cc/tutorials/nano-33-ble-sense-rev2/imu-accelerometer) <br>
 [Reading Temperature and Humidity](https://docs.arduino.cc/tutorials/nano-33-ble-sense-rev2/humidity-and-temperature-sensor)
+
+# Tutoriales y Notebooks
+[AI Speech Recognition with TensorFlow Lite for Microcontrollers and SparkFun Edge](https://codelabs.developers.google.com/codelabs/sparkfun-tensorflow#0)  <be>
+[Train a Simple Audio Recognition Model - Tensorflow Lite Micro](https://github.com/tensorflow/tflite-micro/blob/main/tensorflow/lite/micro/examples/micro_speech/train/train_micro_speech_model.ipynb)
