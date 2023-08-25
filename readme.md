@@ -4,7 +4,8 @@
 # Cursos similares
 [Cursos en linea](https://tinyml.seas.harvard.edu/courses/) <br>
 [Tiny Machine Learning - U Penn](https://tinyml.seas.upenn.edu/) <br>
-[Tiny Machine Learning - Harvard](https://sites.google.com/g.harvard.edu/tinyml/home)
+[Tiny Machine Learning - Harvard](https://sites.google.com/g.harvard.edu/tinyml/home) <br>
+[SciTinyML - Africa 2022](https://tinyml.seas.harvard.edu/SciTinyML-22/africa/)
 
 # Artículos
 [TinyML-Based Classification in an ECG Monitoring Embedded System - 2023](https://www.techscience.com/cmc/v75n1/51426/html) <br>
