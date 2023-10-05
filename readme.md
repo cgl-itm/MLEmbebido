@@ -3,6 +3,7 @@
 
 # Cursos similares
 [Cursos en linea](https://tinyml.seas.harvard.edu/courses/) <br>
+[TinyML and Efficient Deep Learning Computing - MIT](https://hanlab.mit.edu/courses/2023-fall-65940) <br>
 [Tiny Machine Learning - U Penn](https://tinyml.seas.upenn.edu/) <br>
 [Tiny Machine Learning - Harvard](https://sites.google.com/g.harvard.edu/tinyml/home) <br>
 [SciTinyML - Africa 2022](https://tinyml.seas.harvard.edu/SciTinyML-22/africa/)
