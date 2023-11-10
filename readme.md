@@ -15,6 +15,7 @@
 ## Pruning
 [Pruning Optimization - CHITA - by Google](https://ai.googleblog.com/2023/08/neural-network-pruning-with.html)
 ## Quantization
+[QKeras](https://github.com/google/qkeras/tree/master) <br>
 [OpenVINO Notebooks](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks)
 
 ## NAS
