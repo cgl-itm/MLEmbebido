@@ -14,6 +14,9 @@
 [Scalable Lightweight IoT-Based Smart Weather Measurement System](https://www.mdpi.com/1424-8220/23/12/5569) <be>
 ## Pruning
 [Pruning Optimization - CHITA - by Google](https://ai.googleblog.com/2023/08/neural-network-pruning-with.html)
+## Quantization
+[OpenVINO Notebooks](https://ai.googleblog.com/2023/08/neural-network-pruning-with.html](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks)
+
 ## NAS
 https://github.com/alibaba/lightweight-neural-architecture-search <br>
 https://github.com/mit-han-lab/mcunet
