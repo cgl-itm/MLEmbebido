@@ -17,7 +17,8 @@
 ## Quantization
 [QKeras](https://github.com/google/qkeras/tree/master) <br>
 [OpenVINO Notebooks](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks) <br>
-[Optimizing tflite models: A Comparison of Quantization Techniques](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6)
+[Optimizing tflite models: A Comparison of Quantization Techniques](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6) <be>
+[Optimizing TFlite models - Quantization - Medium Article](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6)
 ## NAS
 https://github.com/alibaba/lightweight-neural-architecture-search <br>
 https://github.com/mit-han-lab/mcunet
