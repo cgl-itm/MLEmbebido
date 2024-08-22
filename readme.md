@@ -1,28 +1,30 @@
 # Laboratorios de Investigación
-[Han Lab - MIT](https://hanlab.mit.edu/)
+* [Han Lab - MIT](https://hanlab.mit.edu/)
 
 # Cursos similares
-[Cursos en linea](https://tinyml.seas.harvard.edu/courses/) <br>
-[TinyML and Efficient Deep Learning Computing - MIT](https://hanlab.mit.edu/courses/2023-fall-65940) <br>
-[Tiny Machine Learning - U Penn](https://tinyml.seas.upenn.edu/) <br>
-[Tiny Machine Learning - Harvard](https://sites.google.com/g.harvard.edu/tinyml/home) <br>
-[SciTinyML - Africa 2022](https://tinyml.seas.harvard.edu/SciTinyML-22/africa/)
+* [Cursos en linea](https://tinyml.seas.harvard.edu/courses/) 
+* [TinyML and Efficient Deep Learning Computing - MIT](https://hanlab.mit.edu/courses/2023-fall-65940) 
+* [Tiny Machine Learning - U Penn](https://tinyml.seas.upenn.edu/) 
+* [Tiny Machine Learning - Harvard](https://sites.google.com/g.harvard.edu/tinyml/home) 
+* [SciTinyML - Africa 2022](https://tinyml.seas.harvard.edu/SciTinyML-22/africa/)
 
 # Artículos
-[TinyML-Based Classification in an ECG Monitoring Embedded System - 2023](https://www.techscience.com/cmc/v75n1/51426/html) <br>
-[A Generalized Approach for Feature Selection in Water Quality Monitoring - 2023](https://ieeexplore.ieee.org/abstract/document/10185713) <br>
-[Scalable Lightweight IoT-Based Smart Weather Measurement System](https://www.mdpi.com/1424-8220/23/12/5569) <br>
+* [TinyML-Based Classification in an ECG Monitoring Embedded System - 2023](https://www.techscience.com/cmc/v75n1/51426/html) 
+* [A Generalized Approach for Feature Selection in Water Quality Monitoring - 2023](https://ieeexplore.ieee.org/abstract/document/10185713) 
+* [Scalable Lightweight IoT-Based Smart Weather Measurement System](https://www.mdpi.com/1424-8220/23/12/5569) 
 ## Pruning
-[Pruning Optimization - CHITA - by Google](https://ai.googleblog.com/2023/08/neural-network-pruning-with.html)
+* [Pruning Optimization - CHITA - by Google](https://ai.googleblog.com/2023/08/neural-network-pruning-with.html)
 ## Quantization
-[QKeras](https://github.com/google/qkeras/tree/master) <br>
-[OpenVINO Notebooks](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks) <br>
-[Optimizing tflite models: A Comparison of Quantization Techniques](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6) <be>
-[Optimizing TFlite models - Quantization - Medium Article](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6)
+* [QKeras](https://github.com/google/qkeras/tree/master) 
+* [OpenVINO Notebooks](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks) 
+* [Optimizing tflite models: A Comparison of Quantization Techniques](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6) 
+* [Optimizing TFlite models - Quantization - Medium Article](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6)
 ## NAS
-https://github.com/alibaba/lightweight-neural-architecture-search <br>
-https://github.com/mit-han-lab/mcunet
+* [Lightweight NAS](https://github.com/alibaba/lightweight-neural-architecture-search)
+* [MCUNet - Han Lab](https://github.com/mit-han-lab/mcunet)
 
+## Knowledge Distillation
+* [Repositorio completo](https://github.com/dkozlov/awesome-knowledge-distillation)
 
 # Arduino nano 33 BLE Sense rev2
 [Datasheet](https://docs.arduino.cc/static/d47764b2748f545a4e96fd14f064a901/ABX00069-datasheet.pdf) <br>
