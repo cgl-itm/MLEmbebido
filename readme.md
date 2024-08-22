@@ -25,6 +25,7 @@
 
 ## Knowledge Distillation
 * [Repositorio completo](https://github.com/dkozlov/awesome-knowledge-distillation)
+* [TorchDistill](https://github.com/yoshitomo-matsubara/torchdistill)
 
 # Arduino nano 33 BLE Sense rev2
 [Datasheet](https://docs.arduino.cc/static/d47764b2748f545a4e96fd14f064a901/ABX00069-datasheet.pdf) <br>
