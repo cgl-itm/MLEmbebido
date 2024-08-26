@@ -14,11 +14,14 @@
 * [Scalable Lightweight IoT-Based Smart Weather Measurement System](https://www.mdpi.com/1424-8220/23/12/5569) 
 ## Pruning
 * [Pruning Optimization - CHITA - by Google](https://ai.googleblog.com/2023/08/neural-network-pruning-with.html)
+* [Paper - LLM Pruning and Distillation in Practice: The Minitron Approach](https://arxiv.org/pdf/2408.11796)
+  
 ## Quantization
 * [QKeras](https://github.com/google/qkeras/tree/master) 
 * [OpenVINO Notebooks](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks) 
 * [Optimizing tflite models: A Comparison of Quantization Techniques](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6) 
 * [Optimizing TFlite models - Quantization - Medium Article](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6)
+  
 ## NAS
 * [Lightweight NAS](https://github.com/alibaba/lightweight-neural-architecture-search)
 * [MCUNet - Han Lab](https://github.com/mit-han-lab/mcunet)
@@ -28,16 +31,16 @@
 * [TorchDistill](https://github.com/yoshitomo-matsubara/torchdistill)
 
 # Arduino nano 33 BLE Sense rev2
-[Datasheet](https://docs.arduino.cc/static/d47764b2748f545a4e96fd14f064a901/ABX00069-datasheet.pdf) <br>
-[Official documentation](https://docs.arduino.cc/hardware/nano-33-ble-sense-rev2) <br>
-[Accelerometer example](https://docs.arduino.cc/tutorials/nano-33-ble-sense-rev2/imu-accelerometer) <br>
-[Reading Temperature and Humidity](https://docs.arduino.cc/tutorials/nano-33-ble-sense-rev2/humidity-and-temperature-sensor) <br>
-[MakeIT-How-to-forecast-weather-with-Arduino-Nano-33](https://github.com/BaptisteZloch/MakeIT-How-to-forecast-weather-with-Arduino-Nano-33/tree/main)
+* [Datasheet](https://docs.arduino.cc/static/d47764b2748f545a4e96fd14f064a901/ABX00069-datasheet.pdf) 
+* [Official documentation](https://docs.arduino.cc/hardware/nano-33-ble-sense-rev2) 
+* [Accelerometer example](https://docs.arduino.cc/tutorials/nano-33-ble-sense-rev2/imu-accelerometer) 
+* [Reading Temperature and Humidity](https://docs.arduino.cc/tutorials/nano-33-ble-sense-rev2/humidity-and-temperature-sensor) 
+* [MakeIT-How-to-forecast-weather-with-Arduino-Nano-33](https://github.com/BaptisteZloch/MakeIT-How-to-forecast-weather-with-Arduino-Nano-33/tree/main)
 
 # Tutoriales y Notebooks
-[How to get started fast with Arduino Machine Learning](https://eloquentarduino.com/arduino-machine-learning/) <br>
-[AI Speech Recognition with TensorFlow Lite for Microcontrollers and SparkFun Edge](https://codelabs.developers.google.com/codelabs/sparkfun-tensorflow#0)  <br>
-[Train a Simple Audio Recognition Model - Tensorflow Lite Micro](https://github.com/tensorflow/tflite-micro/blob/main/tensorflow/lite/micro/examples/micro_speech/train/train_micro_speech_model.ipynb)
+* [How to get started fast with Arduino Machine Learning](https://eloquentarduino.com/arduino-machine-learning/)
+* [AI Speech Recognition with TensorFlow Lite for Microcontrollers and SparkFun Edge](https://codelabs.developers.google.com/codelabs/sparkfun-tensorflow#0) 
+* [Train a Simple Audio Recognition Model - Tensorflow Lite Micro](https://github.com/tensorflow/tflite-micro/blob/main/tensorflow/lite/micro/examples/micro_speech/train/train_micro_speech_model.ipynb)
 
 # Repositorios
 [Awesome Edge Machine Learning](https://github.com/Bisonai/awesome-edge-machine-learning)
