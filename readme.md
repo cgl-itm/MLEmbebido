@@ -27,3 +27,4 @@
 
 # Repositorios
 [Awesome Edge Machine Learning](https://github.com/Bisonai/awesome-edge-machine-learning)
+[TinyNS: Platform-Aware Neurosymbolic Auto Tiny Machine Learning](https://github.com/nesl/neurosymbolic-tinyml)
