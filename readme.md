@@ -26,10 +26,6 @@
 * [Lightweight NAS](https://github.com/alibaba/lightweight-neural-architecture-search)
 * [MCUNet - Han Lab](https://github.com/mit-han-lab/mcunet)
 
-## Knowledge Distillation
-* [Repositorio completo](https://github.com/dkozlov/awesome-knowledge-distillation)
-* [TorchDistill](https://github.com/yoshitomo-matsubara/torchdistill)
-
 # Arduino nano 33 BLE Sense rev2
 * [Datasheet](https://docs.arduino.cc/static/d47764b2748f545a4e96fd14f064a901/ABX00069-datasheet.pdf) 
 * [Official documentation](https://docs.arduino.cc/hardware/nano-33-ble-sense-rev2) 
