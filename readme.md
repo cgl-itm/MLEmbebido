@@ -13,11 +13,6 @@
 * [A Generalized Approach for Feature Selection in Water Quality Monitoring - 2023](https://ieeexplore.ieee.org/abstract/document/10185713) 
 * [Scalable Lightweight IoT-Based Smart Weather Measurement System](https://www.mdpi.com/1424-8220/23/12/5569) 
 
-## Quantization
-* [QKeras](https://github.com/google/qkeras/tree/master) 
-* [OpenVINO Notebooks](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks) 
-* [Optimizing tflite models: A Comparison of Quantization Techniques](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6) 
-* [Optimizing TFlite models - Quantization - Medium Article](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6)
   
 ## NAS
 * [Lightweight NAS](https://github.com/alibaba/lightweight-neural-architecture-search)
