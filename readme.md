@@ -12,10 +12,7 @@
 * [TinyML-Based Classification in an ECG Monitoring Embedded System - 2023](https://www.techscience.com/cmc/v75n1/51426/html) 
 * [A Generalized Approach for Feature Selection in Water Quality Monitoring - 2023](https://ieeexplore.ieee.org/abstract/document/10185713) 
 * [Scalable Lightweight IoT-Based Smart Weather Measurement System](https://www.mdpi.com/1424-8220/23/12/5569) 
-## Pruning
-* [Pruning Optimization - CHITA - by Google](https://ai.googleblog.com/2023/08/neural-network-pruning-with.html)
-* [Paper - LLM Pruning and Distillation in Practice: The Minitron Approach](https://arxiv.org/pdf/2408.11796)
-  
+
 ## Quantization
 * [QKeras](https://github.com/google/qkeras/tree/master) 
 * [OpenVINO Notebooks](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks) 
