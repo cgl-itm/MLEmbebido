@@ -4,5 +4,7 @@
 * [MCUNet - MIT - Video](https://www.youtube.com/watch?v=YBER-SNlkqs)
 
 # Repositories
-* [Repositorio completo](https://github.com/dkozlov/awesome-knowledge-distillation)
-* [TorchDistill](https://github.com/yoshitomo-matsubara/torchdistill)
+* [MCUNet - Han Lab](https://github.com/mit-han-lab/mcunet)  
+* [Lightweight NAS](https://github.com/alibaba/lightweight-neural-architecture-search)
+
+
