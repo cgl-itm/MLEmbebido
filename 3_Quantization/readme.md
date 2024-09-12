@@ -6,7 +6,7 @@
 * [Optimizing TFlite models - Quantization - Medium Article](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6)
 * [Medium - Visual Guide to Quantization](https://towardsdatascience.com/a-visual-guide-to-quantization-930ebcd9be94)
 * [Medium - Which Quantization is right](https://medium.com/towards-data-science/which-quantization-method-is-right-for-you-gptq-vs-gguf-vs-awq-c4cd9d77d5be)
-
+* [Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques](https://huggingface.co/blog/Isayoften/optimization-rush)
 ## Repositories
 * [QKeras](https://github.com/google/qkeras/tree/master) 
 * [OpenVINO Notebooks](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks) 
