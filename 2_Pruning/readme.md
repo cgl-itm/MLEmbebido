@@ -1,5 +1,8 @@
 # Pruning of networks
 
+## Notebooks
+* [EfficientML - MIT - Lab1 - Pruning](https://colab.research.google.com/github/yifanlu0227/MIT-6.5940/blob/main/Lab1.ipynb) <a target="_blank" href="https://colab.research.google.com/github/yifanlu0227/MIT-6.5940/blob/main/Lab1.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
 ## Webpages
 * [Pruning Optimization - CHITA - by Google](https://ai.googleblog.com/2023/08/neural-network-pruning-with.html)
 
