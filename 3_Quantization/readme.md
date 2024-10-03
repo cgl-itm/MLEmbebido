@@ -2,6 +2,7 @@
 
 ## Notebooks
 * [EfficientML - Quantization](https://colab.research.google.com/drive/11IBla1q1McoZ2oCANCGHns8VtzG5nCMP)
+* [Solved Notebook](https://github.com/yifanlu0227/MIT-6.5940/blob/main/Lab3.ipynb)
 
 ## Webpages
 * [Optimizing TFlite models: A Comparison of Quantization Techniques](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6) 
