@@ -29,5 +29,6 @@
 * [Train a Simple Audio Recognition Model - Tensorflow Lite Micro](https://github.com/tensorflow/tflite-micro/blob/main/tensorflow/lite/micro/examples/micro_speech/train/train_micro_speech_model.ipynb)
 
 # Repositorios
-[Awesome Edge Machine Learning](https://github.com/Bisonai/awesome-edge-machine-learning)
-[TinyNS: Platform-Aware Neurosymbolic Auto Tiny Machine Learning](https://github.com/nesl/neurosymbolic-tinyml)
+* [Awesome Edge Machine Learning](https://github.com/Bisonai/awesome-edge-machine-learning)
+* [TinyNS: Platform-Aware Neurosymbolic Auto Tiny Machine Learning](https://github.com/nesl/neurosymbolic-tinyml)
+* [LightLLM](https://github.com/ModelTC/lightllm)
