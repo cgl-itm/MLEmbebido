@@ -22,6 +22,7 @@
 * [MakeIT-How-to-forecast-weather-with-Arduino-Nano-33](https://github.com/BaptisteZloch/MakeIT-How-to-forecast-weather-with-Arduino-Nano-33/tree/main)
 
 # Tutoriales y Notebooks
+* [Optimizacion de modelos de TensorFlow](https://www.tensorflow.org/model_optimization/guide?hl=es-419)
 * [How to get started fast with Arduino Machine Learning](https://eloquentarduino.com/arduino-machine-learning/)
 * [AI Speech Recognition with TensorFlow Lite for Microcontrollers and SparkFun Edge](https://codelabs.developers.google.com/codelabs/sparkfun-tensorflow#0) 
 * [Train a Simple Audio Recognition Model - Tensorflow Lite Micro](https://github.com/tensorflow/tflite-micro/blob/main/tensorflow/lite/micro/examples/micro_speech/train/train_micro_speech_model.ipynb)
