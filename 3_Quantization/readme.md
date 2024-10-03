@@ -1,10 +1,15 @@
 # Quantization techniques
 
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wSlkcUbmJ4eI-96yVXFKcw.jpeg" width="400">
+
 ## Notebooks
 * [EfficientML - Quantization](https://colab.research.google.com/drive/11IBla1q1McoZ2oCANCGHns8VtzG5nCMP)
 * [Solved Notebook](https://github.com/yifanlu0227/MIT-6.5940/blob/main/Lab2.ipynb)
 
-# BitNets
+## Floating-Point Numbers
+* [Understanding Floating-Point Numbers](https://dennisforbes.ca/articles/understanding-floating-point-numbers.html)
+
+## BitNets
 * [YT - BitNets: La ERA de las REDES NEURONALES de 1 BIT!](https://www.youtube.com/watch?v=Ne5K7V0U77M)
 
 ## Webpages
