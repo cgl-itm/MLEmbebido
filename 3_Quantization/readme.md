@@ -1,6 +1,6 @@
 # Quantization techniques
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wSlkcUbmJ4eI-96yVXFKcw.jpeg" width="400">
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wSlkcUbmJ4eI-96yVXFKcw.jpeg" width="600">
 
 ## Notebooks
 * [EfficientML - Quantization](https://colab.research.google.com/drive/11IBla1q1McoZ2oCANCGHns8VtzG5nCMP)
