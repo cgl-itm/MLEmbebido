@@ -13,7 +13,8 @@
 * [A Generalized Approach for Feature Selection in Water Quality Monitoring - 2023](https://ieeexplore.ieee.org/abstract/document/10185713) 
 * [Scalable Lightweight IoT-Based Smart Weather Measurement System](https://www.mdpi.com/1424-8220/23/12/5569)
 * [How to Optimize TensorFlow models for Energy Efficiency in Mobile and Embedded Applications](https://www.hophr.com/tutorial-page/optimize-tensorflow-models-for-energy-efficiency-in-mobile-and-embedded-applications) 
-
+* [Four popular model compression techniques - explained](https://xailient.com/blog/4-popular-model-compression-techniques-explained/)
+  
 # Arduino nano 33 BLE Sense rev2
 * [Datasheet](https://docs.arduino.cc/static/d47764b2748f545a4e96fd14f064a901/ABX00069-datasheet.pdf) 
 * [Official documentation](https://docs.arduino.cc/hardware/nano-33-ble-sense-rev2) 
