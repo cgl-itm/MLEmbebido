@@ -6,6 +6,10 @@
 * [EfficientML - Quantization](https://colab.research.google.com/drive/11IBla1q1McoZ2oCANCGHns8VtzG5nCMP)
 * [Solved Notebook](https://github.com/yifanlu0227/MIT-6.5940/blob/main/Lab2.ipynb)
 
+## Videos
+* [MIT - Quantization I](https://www.youtube.com/watch?v=RP23-dRVDWM)
+* [MIT - Quantization II](https://www.youtube.com/watch?v=kjHuIzQ54v4) 
+
 ## Floating-Point Numbers
 * [Understanding Floating-Point Numbers](https://dennisforbes.ca/articles/understanding-floating-point-numbers.html)
 
