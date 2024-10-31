@@ -16,5 +16,5 @@
 # Repositories
 * [MCUNet - Han Lab](https://github.com/mit-han-lab/mcunet)  
 * [Lightweight NAS](https://github.com/alibaba/lightweight-neural-architecture-search)
-
+* [NAS with RL](https://github.com/titu1994/neural-architecture-search)
 
