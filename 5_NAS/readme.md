@@ -19,3 +19,4 @@
 * [NAS with RL](https://github.com/titu1994/neural-architecture-search)
 * [Efficient NAS in PyTorch](https://github.com/carpedm20/ENAS-pytorch)
 * [Genetic NAS](https://github.com/joeddav/devol)
+* [NAS papers upto 2020](https://github.com/jackguagua/awesome-nas-papers)
