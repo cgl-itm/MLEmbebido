@@ -20,3 +20,4 @@
 * [Efficient NAS in PyTorch](https://github.com/carpedm20/ENAS-pytorch)
 * [Genetic NAS](https://github.com/joeddav/devol)
 * [NAS papers upto 2020](https://github.com/jackguagua/awesome-nas-papers)
+* [NAS without training](https://github.com/BayesWatch/nas-without-training)
