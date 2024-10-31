@@ -17,4 +17,4 @@
 * [MCUNet - Han Lab](https://github.com/mit-han-lab/mcunet)  
 * [Lightweight NAS](https://github.com/alibaba/lightweight-neural-architecture-search)
 * [NAS with RL](https://github.com/titu1994/neural-architecture-search)
-
+* [Efficient NAS in PyTorch](https://github.com/carpedm20/ENAS-pytorch)
