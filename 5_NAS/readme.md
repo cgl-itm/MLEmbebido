@@ -14,8 +14,9 @@
 * [ETNAS: An energy consumption task-driven neural architecture search](https://www.sciencedirect.com/science/article/abs/pii/S2210537923000811)
 
 # Repositories
-* [MCUNet - Han Lab](https://github.com/mit-han-lab/mcunet)  
-* [Lightweight NAS](https://github.com/alibaba/lightweight-neural-architecture-search)
+* [MCUNet - MIT - Han Lab](https://github.com/mit-han-lab/mcunet)  
+* [Lightweight NAS - Alibaba](https://github.com/alibaba/lightweight-neural-architecture-search)
+* [ArchAI - Microsoft](https://github.com/microsoft/archai)
 * [NAS with RL](https://github.com/titu1994/neural-architecture-search)
 * [Efficient NAS in PyTorch](https://github.com/carpedm20/ENAS-pytorch)
 * [Genetic NAS](https://github.com/joeddav/devol)
