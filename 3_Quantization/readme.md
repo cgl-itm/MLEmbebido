@@ -2,6 +2,9 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wSlkcUbmJ4eI-96yVXFKcw.jpeg" width="600">
 
+## Articles
+* [VPTQ: EXTREME LOW-BIT VECTOR POST-TRAINING QUANTIZATION FOR LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2409.17066)
+
 ## Notebooks
 * [EfficientML - Quantization](https://colab.research.google.com/drive/11IBla1q1McoZ2oCANCGHns8VtzG5nCMP)
 * [Solved Notebook](https://github.com/yifanlu0227/MIT-6.5940/blob/main/Lab2.ipynb)
