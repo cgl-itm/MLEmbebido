@@ -4,7 +4,7 @@
 
 ## Articles
 * [VPTQ: EXTREME LOW-BIT VECTOR POST-TRAINING QUANTIZATION FOR LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2409.17066)
-
+* [QTIP: Quantization with Trellises and Incoherence Processing](https://arxiv.org/abs/2406.11235)
 ## Notebooks
 * [EfficientML - Quantization](https://colab.research.google.com/drive/11IBla1q1McoZ2oCANCGHns8VtzG5nCMP)
 * [Solved Notebook](https://github.com/yifanlu0227/MIT-6.5940/blob/main/Lab2.ipynb)
