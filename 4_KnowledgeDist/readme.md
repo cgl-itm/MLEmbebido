@@ -4,8 +4,12 @@
 * [A Comprehensive Review of Knowledge Distillation in Computer Vision
 ](https://arxiv.org/abs/2404.00936)
 
+## PyTorch
+* [Knowledge Distillation Tutorial](https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html)
+
 ## Blogs
 * [Comprehensive Review of Knowledge Distillation Techniques](https://medium.com/@aisagescribe/comprehensive-review-of-knowledge-distillation-techniques-40bcc22515c1)
+* [Roboflow - What is knowledge distillation](https://blog.roboflow.com/what-is-knowledge-distillation/)
 * [Build Powerful Lightweight Models Using Knowledge Distillation](https://towardsdatascience.com/build-powerful-lightweight-models-using-knowledge-distillation-618f69b569d9)
 * [From TensorFlow to TFLite](https://medium.com/@zone24x7_inc/from-tensorflow-to-tflite-how-model-conversion-is-done-and-how-it-affects-neural-network-structure-1d01086083e0)
 * [Seungki Kim](https://medium.com/@poperson1205)
