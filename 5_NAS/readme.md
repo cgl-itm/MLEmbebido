@@ -18,6 +18,7 @@
 * [Lightweight NAS - Alibaba](https://github.com/alibaba/lightweight-neural-architecture-search)
 * [ArchAI - Microsoft](https://github.com/microsoft/archai)
 * [NAS with RL](https://github.com/titu1994/neural-architecture-search)
+* [FairNas - Xiaomi](https://github.com/xiaomi-automl/FairNAS)
 * [Efficient NAS in PyTorch](https://github.com/carpedm20/ENAS-pytorch)
 * [Genetic NAS](https://github.com/joeddav/devol)
 * [NAS papers upto 2020](https://github.com/jackguagua/awesome-nas-papers)
