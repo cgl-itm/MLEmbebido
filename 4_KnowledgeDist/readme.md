@@ -17,7 +17,8 @@
 * [From TensorFlow to TFLite](https://medium.com/@zone24x7_inc/from-tensorflow-to-tflite-how-model-conversion-is-done-and-how-it-affects-neural-network-structure-1d01086083e0)
 * [What is Quantization and Distillation of Models ?](https://medium.com/aimonks/what-is-quantization-and-distillation-of-models-a67e3a2dc325)
 * [Seungki Kim](https://medium.com/@poperson1205)
-
+* [Faster knowledge distillation using uncertainty aware mixup](https://towardsai.net/p/machine-learning/faster-knowledge-distillation-using-uncertainty-aware-mixup)
+  
 ## YouTube
 * [Knowledge Distillation in Deep Neural Network](https://www.youtube.com/watch?v=83FFn7GqLu0)
 * [Better not Bigger: Distilling LLMs into Specialized Models](https://www.youtube.com/watch?v=TIqf4LMNCjU)
