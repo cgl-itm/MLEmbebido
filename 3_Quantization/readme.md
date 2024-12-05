@@ -18,6 +18,7 @@
 
 ## BitNets
 * [YT - BitNets: La ERA de las REDES NEURONALES de 1 BIT!](https://www.youtube.com/watch?v=Ne5K7V0U77M)
+* [Binet is turbocharging LLM efficiency - Microsoft](https://venturebeat.com/ai/how-microsofts-next-gen-bitnet-architecture-is-turbocharging-llm-efficiency/)
 
 ## Webpages
 * [Optimizing TFlite models: A Comparison of Quantization Techniques](https://medium.com/mlearning-ai/optimizing-tflite-models-for-on-edge-machine-learning-for-efficiency-a-comparison-of-quantization-2c0123959cb6) 
