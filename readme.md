@@ -22,7 +22,8 @@
 * [Accelerometer example](https://docs.arduino.cc/tutorials/nano-33-ble-sense-rev2/imu-accelerometer) 
 * [Reading Temperature and Humidity](https://docs.arduino.cc/tutorials/nano-33-ble-sense-rev2/humidity-and-temperature-sensor) 
 * [MakeIT-How-to-forecast-weather-with-Arduino-Nano-33](https://github.com/BaptisteZloch/MakeIT-How-to-forecast-weather-with-Arduino-Nano-33/tree/main)
-
+* [Deploying Convolutional Neural Networks on Microcontrollers — a TinyML Blog](https://nathanbaileyw.medium.com/deploying-convolutional-neural-networks-on-microcontrollers-a-tinyml-blog-5f9b4fa37864)
+  
 # Tutoriales y Notebooks
 * [Optimizacion de modelos de TensorFlow](https://www.tensorflow.org/model_optimization/guide?hl=es-419)
 * [How to get started fast with Arduino Machine Learning](https://eloquentarduino.com/arduino-machine-learning/)
