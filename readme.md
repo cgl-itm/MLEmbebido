@@ -15,6 +15,7 @@
 * [How to Optimize TensorFlow models for Energy Efficiency in Mobile and Embedded Applications](https://www.hophr.com/tutorial-page/optimize-tensorflow-models-for-energy-efficiency-in-mobile-and-embedded-applications) 
 * [Four popular model compression techniques - explained](https://xailient.com/blog/4-popular-model-compression-techniques-explained/)
 * [EtinyNet: Extremely Tiny Network for TinyML](https://ojs.aaai.org/index.php/AAAI/article/view/20387)
+* [Finding the Limits of TinyML — Deploying EtinyNet on a Cortex-M4](https://nathanbaileyw.medium.com/finding-the-limits-of-tinyml-deploying-etinynet-on-a-cortex-m4-32b3a4d21414)
 
 # Arduino nano 33 BLE Sense rev2
 * [Datasheet](https://docs.arduino.cc/static/d47764b2748f545a4e96fd14f064a901/ABX00069-datasheet.pdf) 
