@@ -6,6 +6,8 @@
 * [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 * [Build Powerful Lightweight Models Using Knowledge Distillation](https://towardsdatascience.com/build-powerful-lightweight-models-using-knowledge-distillation-618f69b569d9)
 * [Faster knowledge distillation using uncertainty aware mixup](https://towardsai.net/p/machine-learning/faster-knowledge-distillation-using-uncertainty-aware-mixup)
+* [A Survey on Knowledge Distillation of Large Language Models
+](https://arxiv.org/abs/2402.13116)
 
 ## PyTorch
 * [Knowledge Distillation Tutorial](https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html)
