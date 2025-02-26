@@ -1,6 +1,8 @@
 # Deploy model to a microcontroller or and edge device
 
-## Classic ML
+## Code Converters
+* Active: [EMLearn](https://github.com/emlearn/emlearn), [EveryWhereML](https://github.com/eloquentarduino/everywhereml).
+* Deprecated: [EmbML](https://github.com/lucastsutsui/EmbML), [microMLGen](https://github.com/eloquentarduino/micromlgen), [AIfES](https://github.com/Fraunhofer-IMS/AIfES_for_Arduino), [m2cgen](https://github.com/BayesWitnesses/m2cgen).
 
 
 ## Anomaly detection
