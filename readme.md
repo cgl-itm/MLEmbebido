@@ -28,6 +28,7 @@
 * [Deploying Convolutional Neural Networks on Microcontrollers — a TinyML Blog](https://nathanbaileyw.medium.com/deploying-convolutional-neural-networks-on-microcontrollers-a-tinyml-blog-5f9b4fa37864)
   
 # Tutoriales y Notebooks
+* [TinyML models — what happens behind the scenes](https://medium.com/marionete/tinyml-models-whats-happening-behind-the-scenes-5e61d1555be9)
 * [Optimizacion de modelos de TensorFlow](https://www.tensorflow.org/model_optimization/guide?hl=es-419)
 * [TinyML papers and projects](https://github.com/gigwegbe/tinyml-papers-and-projects)
 * [How to get started fast with Arduino Machine Learning](https://eloquentarduino.com/arduino-machine-learning/)
