@@ -8,6 +8,7 @@
 * [Faster knowledge distillation using uncertainty aware mixup](https://towardsai.net/p/machine-learning/faster-knowledge-distillation-using-uncertainty-aware-mixup)
 * [A Survey on Knowledge Distillation of Large Language Models
 ](https://arxiv.org/abs/2402.13116)
+* [Practical guide to distilling large models into small models](https://pub.towardsai.net/practical-guide-to-distilling-large-models-into-small-models-a-novel-approach-with-extended-1a49d53163a1)
 
 ## PyTorch
 * [Knowledge Distillation Tutorial](https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html)
