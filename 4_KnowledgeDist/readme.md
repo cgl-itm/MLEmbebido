@@ -8,12 +8,12 @@
 * [Faster knowledge distillation using uncertainty aware mixup](https://towardsai.net/p/machine-learning/faster-knowledge-distillation-using-uncertainty-aware-mixup)
 * [A Survey on Knowledge Distillation of Large Language Models
 ](https://arxiv.org/abs/2402.13116)
-* [Practical guide to distilling large models into small models](https://pub.towardsai.net/practical-guide-to-distilling-large-models-into-small-models-a-novel-approach-with-extended-1a49d53163a1)
-
+  
 ## PyTorch
 * [Knowledge Distillation Tutorial](https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html)
 
 ## Blogs
+* [Distilling Knowledge in Neural Networks With Weights & Biases](https://wandb.ai/authors/knowledge-distillation/reports/Distilling-Knowledge-in-Deep-Neural-Networks--VmlldzoyMjkxODk)
 * [Tutorial - Distilling Knowledge in Neural Networks With Weights & Biases](https://wandb.ai/authors/knowledge-distillation/reports/Distilling-Knowledge-in-Deep-Neural-Networks--VmlldzoyMjkxODk)
 * [Nvidia - How to Prune and Distill Llama-3.1 8B to an NVIDIA Llama-3.1-Minitron 4B Model](https://developer.nvidia.com/blog/how-to-prune-and-distill-llama-3-1-8b-to-an-nvidia-llama-3-1-minitron-4b-model/)
 * [Comprehensive Review of Knowledge Distillation Techniques](https://medium.com/@aisagescribe/comprehensive-review-of-knowledge-distillation-techniques-40bcc22515c1)
@@ -23,6 +23,8 @@
 * [What is Quantization and Distillation of Models ?](https://medium.com/aimonks/what-is-quantization-and-distillation-of-models-a67e3a2dc325)
 * [Seungki Kim](https://medium.com/@poperson1205)
 * [Faster knowledge distillation using uncertainty aware mixup](https://towardsai.net/p/machine-learning/faster-knowledge-distillation-using-uncertainty-aware-mixup)
+* [Practical guide to distilling large models into small models](https://pub.towardsai.net/practical-guide-to-distilling-large-models-into-small-models-a-novel-approach-with-extended-1a49d53163a1)
+
   
 ## YouTube
 * [Knowledge Distillation in Deep Neural Network](https://www.youtube.com/watch?v=83FFn7GqLu0)
