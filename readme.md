@@ -11,7 +11,8 @@
 # Libros
 * [TinyML Made Easy](https://mjrovai.github.io/TinyML_Made_Easy_NiclaV_eBook/)
 * [TinyML CookBook](https://github.com/PacktPublishing/TinyML-Cookbook_2E)
-
+* [Machine Learning Systems](https://github.com/harvard-edge/cs249r_book)
+  
 # Artículos
 * [TinyML-Based Classification in an ECG Monitoring Embedded System - 2023](https://www.techscience.com/cmc/v75n1/51426/html) 
 * [A Generalized Approach for Feature Selection in Water Quality Monitoring - 2023](https://ieeexplore.ieee.org/abstract/document/10185713) 
