@@ -1,6 +1,10 @@
 # Laboratorios de Investigación
 * [Han Lab - MIT](https://hanlab.mit.edu/)
 
+# Librerias
+* [LiteRT for Microcontrollers - Google](https://ai.google.dev/edge/litert/microcontrollers/overview)
+* [CMSIS - Arm](https://arm-software.github.io/CMSIS_6/latest/General/index.html)
+
 # Cursos similares
 * [Cursos en linea](https://tinyml.seas.harvard.edu/courses/) 
 * [TinyML and Efficient Deep Learning Computing - MIT](https://hanlab.mit.edu/courses/2023-fall-65940) 
