@@ -7,7 +7,7 @@
 
 # Cursos similares
 * [Cursos en linea](https://tinyml.seas.harvard.edu/courses/) 
-* [TinyML and Efficient Deep Learning Computing - MIT](https://hanlab.mit.edu/courses/2023-fall-65940) 
+* [TinyML and Efficient Deep Learning Computing - MIT](https://hanlab.mit.edu/courses/2024-fall-65940) 
 * [Tiny Machine Learning - U Penn](https://tinyml.seas.upenn.edu/) 
 * Tiny Machine Learning - Harvard [2022](https://sites.google.com/g.harvard.edu/tinyml/home), [2023](https://sites.google.com/g.harvard.edu/cs249-tinyml-2023)
 * [Architecture 2.0 - Harvard](https://harvard-edge.github.io/cs249r_fall2025/course/news)
