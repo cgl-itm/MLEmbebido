@@ -9,14 +9,14 @@
 |      06       |  Primer evento evaluativo |      | 
 |      07       |  Pruning |      | 
 |      08       |  Quantization |      | 
-|      09       |  Segundo evento evaluativo |      | 
-|      10       |  Knowledge Destillation |      | 
-|      11       |  Tercer evento evaluaivo |      | 
-|      12       |  Neural Artichecture Search (NAS) |      | 
-|      13       |  Cuarto evento evaluativo |      | 
-|      14       |   |      | 
-|      15       |   |      | 
-|      16       |   Proyecto Final |      | 
+|      09       |  Clase taller |      | 
+|      10       |   Segundo evento evaluativo |      | 
+|      11       |   Knowledge Destillation  |      | 
+|      12       |  Clase Taller |      | 
+|      13       |  Tercer evento evaluaivo  |      | 
+|      14       |  Neural Artichecture Search (NAS) |      | 
+|      15       |  Cuarto evento evaluativo |      | 
+|      16       |  Proyecto Final |      | 
 
 # Laboratorios de Investigación
 * [Han Lab - MIT](https://hanlab.mit.edu/)
