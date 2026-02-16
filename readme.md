@@ -2,21 +2,21 @@
 | Semana |                             Tema                              |                  Material practico |
 | :-----------: | :--------------------------------------------------------------: |:----------------------------------------------------------------------------------------------------------------------------: | 
 |      01       |  **Introduccion al curso**    |    | 
-|      02       |    |  |
-|      03       |   |      | 
-|      04       |    |   | 
-|      05       |  |      | 
-|      06       |   |      | 
-|      07       |   |      | 
-|      08       |   |      | 
-|      09       |   |      | 
-|      10       |   |      | 
-|      11       |   |      | 
-|      12       |   |      | 
-|      13       |   |      | 
+|      02       |  Despliegue modelos basados en datos estructurados  |  |
+|      03       |  Despliegue modelos basados en señales |      | 
+|      04       |  Despliegue modelos basados en imagenes: Clasificacion  |   | 
+|      05       |  Despliegue modelos basados en imagenes: Deteccion de objetos  |      | 
+|      06       |  Primer evento evaluativo |      | 
+|      07       |  Pruning |      | 
+|      08       |  Quantization |      | 
+|      09       |  Segundo evento evaluativo |      | 
+|      10       |  Knowledge Destillation |      | 
+|      11       |  Tercer evento evaluaivo |      | 
+|      12       |  Neural Artichecture Search (NAS) |      | 
+|      13       |  Cuarto evento evaluativo |      | 
 |      14       |   |      | 
 |      15       |   |      | 
-|      16       |   |      | 
+|      16       |   Proyecto Final |      | 
 
 # Laboratorios de Investigación
 * [Han Lab - MIT](https://hanlab.mit.edu/)
