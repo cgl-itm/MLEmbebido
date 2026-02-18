@@ -1,8 +1,8 @@
 # Calendario
 | Semana |                             Tema                              |                  Material practico |
 | :-----------: | :--------------------------------------------------------------: |:----------------------------------------------------------------------------------------------------------------------------: | 
-|      01       |  **Introduccion al curso**    |    | 
-|      02       |  Despliegue modelos basados en datos estructurados  |  |
+|      01       |  [Introduccion al curso]((https://github.com/cgl-itm/MLEmbebido/blob/main/Slides/00_Introduccion.pdf))  |    | 
+|      02       |  Despliegue modelos basados en datos estructurados  | [Mini Proyecto](https://github.com/cgl-itm/MLEmbebido/blob/main/Proyectos/FGL%20029%20Guia%20de%20Trabajo%20Practico%20-01-%20Datos%20Estructurados.pdf) |
 |      03       |  Despliegue modelos basados en señales |      | 
 |      04       |  Despliegue modelos basados en imagenes: Clasificacion  |   | 
 |      05       |  Despliegue modelos basados en imagenes: Deteccion de objetos  |      | 
