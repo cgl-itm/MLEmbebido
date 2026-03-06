@@ -39,6 +39,7 @@
 * Machine Learning Systems - [GitHub](https://github.com/harvard-edge/cs249r_book), [Online Book](https://mlsysbook.ai/book/contents/frontmatter/about/about.html)
   
 # Artículos
+* [Intelligence per Watt: Edge versus Cloud](https://www.embedl.com/knowledge/intelligence-per-watt-edge-versus-cloud)
 * [TinyML-Based Classification in an ECG Monitoring Embedded System - 2023](https://www.techscience.com/cmc/v75n1/51426/html) 
 * [A Generalized Approach for Feature Selection in Water Quality Monitoring - 2023](https://ieeexplore.ieee.org/abstract/document/10185713) 
 * [Scalable Lightweight IoT-Based Smart Weather Measurement System](https://www.mdpi.com/1424-8220/23/12/5569)
