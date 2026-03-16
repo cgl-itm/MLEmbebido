@@ -24,6 +24,7 @@
 # Librerias
 * [LiteRT for Microcontrollers - Google](https://ai.google.dev/edge/litert/microcontrollers/overview)
 * [CMSIS - Arm](https://arm-software.github.io/CMSIS_6/latest/General/index.html)
+* [AIMET - Quantization and Pruning](https://github.com/quic/aimet?tab=readme-ov-file)
 
 # Cursos similares
 * [Cursos en linea](https://tinyml.seas.harvard.edu/courses/) 
