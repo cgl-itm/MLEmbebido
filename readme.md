@@ -61,6 +61,7 @@
 * [Deploying Convolutional Neural Networks on Microcontrollers — a TinyML Blog](https://nathanbaileyw.medium.com/deploying-convolutional-neural-networks-on-microcontrollers-a-tinyml-blog-5f9b4fa37864)
   
 # Tutoriales y Notebooks
+* [Crea y Convierte modelos de TensorFlow a C - Google](https://ai.google.dev/edge/litert/microcontrollers/build_convert?hl=es-419)
 * [TinyML models — what happens behind the scenes](https://medium.com/marionete/tinyml-models-whats-happening-behind-the-scenes-5e61d1555be9)
 * [Optimizacion de modelos de TensorFlow](https://www.tensorflow.org/model_optimization/guide?hl=es-419)
 * [TinyML papers and projects](https://github.com/gigwegbe/tinyml-papers-and-projects)
