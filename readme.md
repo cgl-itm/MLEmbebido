@@ -25,6 +25,7 @@
 * [LiteRT for Microcontrollers - Google](https://ai.google.dev/edge/litert/microcontrollers/overview)
 * [CMSIS - Arm](https://arm-software.github.io/CMSIS_6/latest/General/index.html)
 * [AIMET - Quantization and Pruning](https://github.com/quic/aimet?tab=readme-ov-file)
+* [TFLite micro - Operations](https://github.com/tensorflow/tflite-micro/blob/main/tensorflow/lite/micro/micro_mutable_op_resolver.h)
 
 # Cursos similares
 * [Cursos en linea](https://tinyml.seas.harvard.edu/courses/) 
