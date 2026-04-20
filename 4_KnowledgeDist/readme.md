@@ -1,6 +1,7 @@
 # Knowledge Distillation
 
 ## Notebooks
+* [Example - Jose Horas](https://colab.research.google.com/github/cgl-itm/MLEmbebido/blob/main/4_KnowledgeDist/knowledge_distillation.ipynb)
 * [Pytorch Tutorial - KD - Colab](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/a19d8941b0ebb13c102e41c7e24bc5fb/knowledge_distillation_tutorial.ipynb)
 * 
 
