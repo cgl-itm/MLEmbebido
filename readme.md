@@ -39,6 +39,9 @@
 * [TinyML Made Easy](https://mjrovai.github.io/TinyML_Made_Easy_NiclaV_eBook/)
 * [TinyML CookBook](https://github.com/PacktPublishing/TinyML-Cookbook_2E)
 * Machine Learning Systems - [GitHub](https://github.com/harvard-edge/cs249r_book), [Online Book](https://mlsysbook.ai/book/contents/frontmatter/about/about.html)
+
+# PyTorch
+* [Executorch](https://github.com/pytorch/executorch)
   
 # Artículos
 * [Intelligence per Watt: Edge versus Cloud](https://www.embedl.com/knowledge/intelligence-per-watt-edge-versus-cloud)
