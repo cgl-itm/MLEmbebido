@@ -9,6 +9,8 @@
 
 # Blogs
 * [NAS with Optuna](https://dzlab.github.io/dltips/en/tensorflow/hyperoptim-optuna/)
+* [NAS guide - Yusuke Hashimoto Lab](https://yusukehashimotolab.github.io/AI-Knowledge-Notes/knowledge/en/ML/automl-introduction/chapter3-neural-architecture-search.html)
+* [Hyperparameter tuning fo artificial neural networks a complete-guide](https://medium.com/@robin5002234/hyperparameter-tuning-for-artificial-neural-networks-a-complete-guide-400cbb7849e1)
 
 # Research Articles
 * [ETNAS: An energy consumption task-driven neural architecture search](https://www.sciencedirect.com/science/article/abs/pii/S2210537923000811)
