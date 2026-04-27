@@ -17,6 +17,7 @@
 * [MCUNet - MIT - Han Lab](https://github.com/mit-han-lab/mcunet)  
 * [Lightweight NAS - Alibaba](https://github.com/alibaba/lightweight-neural-architecture-search)
 * [ArchAI - Microsoft](https://github.com/microsoft/archai)
+* [NAS bench - Goodle](https://github.com/google-research/nasbench)
 * [NAS with RL](https://github.com/titu1994/neural-architecture-search)
 * [FairNas - Xiaomi](https://github.com/xiaomi-automl/FairNAS)
 * [Efficient NAS in PyTorch](https://github.com/carpedm20/ENAS-pytorch)
