@@ -14,6 +14,7 @@
 * [ETNAS: An energy consumption task-driven neural architecture search](https://www.sciencedirect.com/science/article/abs/pii/S2210537923000811)
 
 # Repositories
+* [NAS with RL - TRasagna](https://github.com/TRasagna/Neural-Architecture-Search-with-Reinforcement-Learning)
 * [MCUNet - MIT - Han Lab](https://github.com/mit-han-lab/mcunet)  
 * [Lightweight NAS - Alibaba](https://github.com/alibaba/lightweight-neural-architecture-search)
 * [ArchAI - Microsoft](https://github.com/microsoft/archai)
