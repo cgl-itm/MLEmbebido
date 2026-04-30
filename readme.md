@@ -38,6 +38,7 @@
 # Libros
 * [TinyML Made Easy](https://mjrovai.github.io/TinyML_Made_Easy_NiclaV_eBook/)
 * [TinyML CookBook](https://github.com/PacktPublishing/TinyML-Cookbook_2E)
+* [Edge AI Engineering - Hands-on with the Raspberry Pi](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/)
 * Machine Learning Systems - [GitHub](https://github.com/harvard-edge/cs249r_book), [Online Book](https://mlsysbook.ai/book/contents/frontmatter/about/about.html)
 
 # PyTorch
