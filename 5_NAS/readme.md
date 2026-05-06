@@ -3,6 +3,7 @@
 * [EfficientML - NAS - Solved](https://github.com/yifanlu0227/MIT-6.5940/blob/main/Lab3.ipynb)
 
 # Inportant links
+* [Once for all - OFA - MIT](https://hanlab.mit.edu/projects/ofa)
 * [Hardware-Aware Neural Architecture Search Benchmark](https://github.com/IlyaTrofimov/MF_NAS_KD) 
 * [Intel's MiniNAS](https://colab.research.google.com/github/sigopt/sigopt-examples/blob/master/vision-nas-search-keras-cifar-ray/mininas.ipynb) 
 * [MCUNet - MIT - Video](https://www.youtube.com/watch?v=YBER-SNlkqs)
