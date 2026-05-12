@@ -1,6 +1,7 @@
 # Notebooks
 * [EfficientML - NAS](https://colab.research.google.com/drive/1xKReLBHVS6bkFbYkfi-Ky3C4loQmG6Yc)
 * [EfficientML - NAS - Solved](https://github.com/yifanlu0227/MIT-6.5940/blob/main/Lab3.ipynb)
+* [Optuna - MultiObjective NAS](https://optuna.readthedocs.io/en/stable/tutorial/20_recipes/002_multi_objective.html)
 
 # Inportant links
 * [Once for all - OFA - MIT](https://hanlab.mit.edu/projects/ofa)
